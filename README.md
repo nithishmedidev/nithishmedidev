@@ -1,10 +1,10 @@
 # Hi, I'm Nithish Medi 👋
 
-## 🚀 Full Stack Developer
+💻 Full Stack Developer
 
-Building web and mobile applications using modern technologies.
+🚀 Building web and mobile applications
 
-### 🛠️ Skills
+## 🛠️ Tech Stack
 - HTML
 - CSS
 - JavaScript
@@ -12,19 +12,15 @@ Building web and mobile applications using modern technologies.
 - Git
 - GitHub
 
-### 📂 Projects
+## 📂 Featured Project
 - Cognova
-- Chronova
-- Habit Tracker Pro
-- OG FITNESS
 
-### 🎯 Current Focus
+## 🎯 Current Goal
+Build production-ready applications and grow as a software developer.
+
+## 📈 Currently Learning
 - Full Stack Development
+- Firebase
 - Mobile App Development
-- Firebase Integration
-- UI/UX Design
 
-### 📫 Connect With Me
-- GitHub: @nithishmedidev
-
-> Building, learning, and improving every day.
+> Consistency beats talent when talent isn't consistent.
