@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Nithish Medi 👋
 
-<!--
-**nithishmedidev/nithishmedidev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Full Stack Developer
 
-Here are some ideas to get you started:
+Building web and mobile applications using modern technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills
+- HTML
+- CSS
+- JavaScript
+- Firebase
+- Git
+- GitHub
+
+### 📂 Projects
+- Cognova
+- Chronova
+- Habit Tracker Pro
+- OG FITNESS
+
+### 🎯 Current Focus
+- Full Stack Development
+- Mobile App Development
+- Firebase Integration
+- UI/UX Design
+
+### 📫 Connect With Me
+- GitHub: @nithishmedidev
+
+> Building, learning, and improving every day.
